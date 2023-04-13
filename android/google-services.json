@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192311023613",
+    "project_id": "skdv-contactos",
+    "storage_bucket": "skdv-contactos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192311023613:android:989f45018927dc5b79ab94",
+        "android_client_info": {
+          "package_name": "com.example.contacts_transfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192311023613-4otj2ohegt5fdafar2152j2tcb3qbtm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvNIAoQwXM2GS_GOyiscm-vBE5TrgisSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192311023613-4otj2ohegt5fdafar2152j2tcb3qbtm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
